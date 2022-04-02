@@ -93,6 +93,22 @@ small {
     color: rgb(179, 68, 28);
 }
 
+/* Quotes and features section */
+
+.my-5 {
+    text-align: center;
+    border-bottom: 2px solid rgb(180, 132, 0);
+}
+
+blockquote footer {
+    text-indent: 30px;
+    margin-top: -15px;
+}
+
+.badge-success {
+    background-color: rgb(179, 68, 28);
+}
+
 .quotes-container {}
 
 .features-container {}
